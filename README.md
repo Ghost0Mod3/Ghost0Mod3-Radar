@@ -1,3 +1,26 @@
+<div class="ascii-logo">
+<pre> 
+                
+                !@@!@@@@@@@@!
+              @@#############@@
+            @@#################@@
+           @#####################@     000
+          @######     #####   ####@    0000
+          @######     #####   ####@    000
+          @######     #####   ####@   000
+      ----@#######################@***00
+     *****@#########       #######@ ***
+   000    @#########       #######@
+  0000    @#######################@
+   000    @#######################@
+           @#####################@
+            @@#################@@
+             @@###############@@
+            !!!##!!!##!!!##!!!11
+          !!!##!!!##!!!##!!!##!!!11
+
+</pre>
+</div>
 # Ghost0Mod3
 ------------
 Ghost0Mod3 is a modular ESP32 touchscreen application platform built on a 2.8-inch CYD-style board. The current prototype includes a BLE radar application, separate radar and system settings, touch navigation, Wi-Fi setup, and saved Wi-Fi credentials.
